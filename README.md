@@ -1,17 +1,17 @@
-# Putting It All Together Project on [Name of Research Project]
+# Putting It All Together Project on Social Media Insecurity and Gender
 
 # Introduction
 
 Throughout the the term, you will be working to build up an analysis of a specific research question, detailed below. You will complete several Putting It All Together assignments that ask you to analyze a dataset using the specific tools you have learned. For each assignment, you will report your results in a brief report. The ultimate goal of this set of assignments is a final complete research report on your specific research question. 
 
-## Research Topic: 
+## Research Topic: Social Media Insecurity and Gender
 
-Describe research topic
+We will use data from the Pew Research Center on teen tech use to look at gender differences in how insecure social media makes adolescents feel. We will also look at how these gender differences might vary by the educational level of parents. 
 
 ### Research questions
 
-1. x related to y
-2. contextual variable
+1. Does the extent to which social media makes adolescents feel insecure vary by gender?
+2. Does this relationship between social media insecurity and gender among adolescents vary by the education of their parents?
 
 ## Technical Details
 
